@@ -1,4 +1,5 @@
-SQL aliasing is a technique used to give a table or a column in a table a temporary name within an SQL query. Aliasing can be useful in various scenarios, such as:
+SQL aliasing is a technique used to give a table or a column in a table a temporary name within an SQL query.
+   Aliasing can be useful in various scenarios, such as:
 
 1. Simplifying column and table names: Aliases can be used to provide more suitable or shorter names for columns and tables, making the SQL query clearer and easier to understand.
 2. JOIN operations: When working with JOIN operations involving multiple tables, aliases can be used to prefix column names and easily identify which table each column belongs to.
